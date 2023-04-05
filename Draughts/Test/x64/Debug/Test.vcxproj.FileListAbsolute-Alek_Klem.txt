@@ -1,0 +1,2 @@
+C:\Users\alekk\OneDrive\Bureaublad\C++\Test\Test\x64\Debug\Test.vcxproj.CopyComplete
+C:\Users\alekk\OneDrive\Bureaublad\C++\Draughts\Test\x64\Debug\Test.vcxproj.CopyComplete

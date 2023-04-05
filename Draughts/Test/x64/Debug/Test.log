@@ -1,0 +1,27 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Test-Alek_Klem.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Test.cpp
+C:\Users\alekk\OneDrive\Bureaublad\C++\Draughts\Test\Test.cpp(63,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\alekk\OneDrive\Bureaublad\C++\Draughts\Test\Test.cpp(816,22): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\alekk\OneDrive\Bureaublad\C++\Draughts\Test\Test.cpp(969,28): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\alekk\OneDrive\Bureaublad\C++\Draughts\Test\Test.cpp(969,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\alekk\OneDrive\Bureaublad\C++\Draughts\Test\Test.cpp(970,34): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\alekk\OneDrive\Bureaublad\C++\Draughts\Test\Test.cpp(970,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\alekk\OneDrive\Bureaublad\C++\Draughts\Test\Test.cpp(971,34): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\alekk\OneDrive\Bureaublad\C++\Draughts\Test\Test.cpp(971,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\alekk\OneDrive\Bureaublad\C++\Draughts\Test\Test.cpp(974,40): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\alekk\OneDrive\Bureaublad\C++\Draughts\Test\Test.cpp(974,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\alekk\OneDrive\Bureaublad\C++\Draughts\Test\Test.cpp(975,34): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\alekk\OneDrive\Bureaublad\C++\Draughts\Test\Test.cpp(975,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\alekk\OneDrive\Bureaublad\C++\Draughts\Test\Test.cpp(976,34): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\alekk\OneDrive\Bureaublad\C++\Draughts\Test\Test.cpp(976,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\alekk\OneDrive\Bureaublad\C++\Draughts\Test\Test.cpp(991,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alekk\OneDrive\Bureaublad\C++\Draughts\Test\Test.cpp(991,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alekk\OneDrive\Bureaublad\C++\Draughts\Test\Test.cpp(996,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alekk\OneDrive\Bureaublad\C++\Draughts\Test\Test.cpp(996,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alekk\OneDrive\Bureaublad\C++\Draughts\Test\Test.cpp(1001,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alekk\OneDrive\Bureaublad\C++\Draughts\Test\Test.cpp(1001,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alekk\OneDrive\Bureaublad\C++\Draughts\Test\Test.cpp(1006,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alekk\OneDrive\Bureaublad\C++\Draughts\Test\Test.cpp(1006,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alekk\OneDrive\Bureaublad\C++\Draughts\Test\Test.cpp(1089,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\alekk\OneDrive\Bureaublad\C++\Draughts\Test\Test.cpp(1090,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Test.vcxproj -> C:\Users\alekk\OneDrive\Bureaublad\C++\Draughts\x64\Debug\Test.exe
